@@ -108,7 +108,13 @@
    "body_chars": 2310,
    "sha256_16": "1ada874f96f0c7e3",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-10",
+     "date": "2026-10-22",
+     "note": "치아를 잃은 원인(외상·잇몸 약화·충치 방치)별 발치 후 준비 각도"
+    }
+   ]
   },
   {
    "id": "009",
@@ -1362,7 +1368,13 @@
    "body_chars": 2225,
    "sha256_16": "455024a647a250cd",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-prosthetic-10",
+     "date": "2026-10-22",
+     "note": "보철 후 양치 시점·치석·구취·잇몸 출혈 관리 각도(회차 수치 제외)"
+    }
+   ]
   },
   {
    "id": "102",
