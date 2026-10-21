@@ -1410,7 +1410,13 @@
    "body_chars": 2363,
    "sha256_16": "8d4f746f890766fe",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-07",
+     "date": "2026-10-21",
+     "note": "식립 위치 사전 계획(가이드 방식)의 장점·한계, 뼈 부족 시, 상담 질문"
+    }
+   ]
   },
   {
    "id": "112",
@@ -2436,7 +2442,13 @@
    "body_chars": 2273,
    "sha256_16": "728dece8d4826af5",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-dental-07",
+     "date": "2026-10-21",
+     "note": "충치·파절은 저절로 낫지 않음, 초기 검진, 치아 상실 원인, 진료 전 전신건강 확인, 치료 선택 순서"
+    }
+   ]
   },
   {
    "id": "191",
