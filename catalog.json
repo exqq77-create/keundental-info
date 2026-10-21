@@ -36,7 +36,13 @@
    "body_chars": 2369,
    "sha256_16": "3e2f79ee2a60d791",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-04",
+     "date": "2026-10-21",
+     "note": "발치 뒤 빈자리 방치 시 치아 이동·뼈 흡수와 임플란트·브릿지·틀니 비교, 발치 직후 상담 기준(수치·효율 표현 제외)"
+    }
+   ]
   },
   {
    "id": "004",
@@ -822,7 +828,13 @@
    "body_chars": 2326,
    "sha256_16": "0abb8be2caf9e45c",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-prosthetic-04",
+     "date": "2026-10-21",
+     "note": "당뇨·고혈압·항응고제·골다공증약 복용 시 보철/임플란트 전 알릴 내용, 최소 절개 계획의 한계, 치료 후 관리(수치·성공률 제외)"
+    }
+   ]
   },
   {
    "id": "069",
