@@ -1990,7 +1990,13 @@
    "body_chars": 2292,
    "sha256_16": "e7d83247c2f7ca9b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-11",
+     "date": "2026-10-22",
+     "note": "빠른 임플란트 설명 확인 기준: 식립 계획·당일 임시치아 조건·뼈이식 필요성"
+    }
+   ]
   },
   {
    "id": "147",
@@ -2044,7 +2050,13 @@
    "body_chars": 2260,
    "sha256_16": "c0bf16c7d4a59e14",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-dental-11",
+     "date": "2026-10-22",
+     "note": "염증으로 치아를 잃는 과정과 조기 관리·대체 선택지 (치주 관리 각도); 원문 약 2260자, 본문 2,160자 수준"
+    }
+   ]
   },
   {
    "id": "151",
