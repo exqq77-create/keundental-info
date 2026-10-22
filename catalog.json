@@ -2117,7 +2117,13 @@
    "body_chars": 2243,
    "sha256_16": "017a7c90edd424a0",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-14",
+     "date": "2026-10-22",
+     "note": "당뇨와 임플란트(혈당·감염·골융합·협진·복약/식사 조율) 각도로 재구성. 원문 혈압 부분은 기존 글과 겹쳐 당뇨 중심으로 전환, 장비 우월·감염률·방문 횟수 수치 제외. yangcheon-laminate 원문이 모두 임플란트 주제라 yangcheon-implant 사용. 원문 2243자 대비 90% 충족"
+    }
+   ]
   },
   {
    "id": "149",
