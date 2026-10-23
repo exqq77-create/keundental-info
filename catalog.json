@@ -522,7 +522,13 @@
    "body_chars": 1769,
    "sha256_16": "84ba62b02d68062b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-prosthetic-18",
+     "date": "2026-10-24",
+     "note": "임플란트 지대주·크라운 기성품 vs 맞춤 비교 각도; 브랜드·보증 강조 제외"
+    }
+   ]
   },
   {
    "id": "035",
@@ -2074,7 +2080,13 @@
    "body_chars": 2212,
    "sha256_16": "dc18ee21e27d2e3d",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-ortho-18",
+     "date": "2026-10-24",
+     "note": "연령대별 교정 목표(소아·청소년·성인·중장년) 각도; 지역명 키워드 제외; 분량 원문 90% 충족"
+    }
+   ]
   },
   {
    "id": "138",
