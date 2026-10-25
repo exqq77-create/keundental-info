@@ -1173,7 +1173,13 @@
    "body_chars": 2109,
    "sha256_16": "ddc1a7cc979d502b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-dental-24",
+     "date": "2026-10-25",
+     "note": "원문 069(개봉동치과, 첫 사용): 턱 괴는 습관·혀로 미는 습관·입 벌림이 치열에 미치는 영향, 성장기/성인 교정 시기 사실 사용. yangcheon-laminate는 원문이 임플란트 주제라 건너뜀"
+    }
+   ]
   },
   {
    "id": "070",
