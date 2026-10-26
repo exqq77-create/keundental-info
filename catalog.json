@@ -906,7 +906,13 @@
    "body_chars": 1995,
    "sha256_16": "3ad96ff5fd29b131",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "gangseo-dental-28",
+     "date": "2026-10-26",
+     "note": "유치 충치와 영구치 영향, 불소도포·실란트 보호자 안내 각도"
+    }
+   ]
   },
   {
    "id": "053",
