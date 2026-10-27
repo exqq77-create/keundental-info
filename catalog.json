@@ -1850,7 +1850,13 @@
    "body_chars": 2151,
    "sha256_16": "5ecaf9c3fefafbc5",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-33",
+     "date": "2026-10-27",
+     "note": "식립 직후 양치·입안 관리 각도(원문의 위생·치태 문제, 픽스처→지대주→보철 순서, 전신질환 고려 사실 활용)"
+    }
+   ]
   },
   {
    "id": "101",
