@@ -3250,7 +3250,13 @@
    "body_chars": 2082,
    "sha256_16": "cb83b0deb5dcda41",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "yangcheon-implant-42",
+     "date": "2026-10-30",
+     "note": "수술 중 혈압·맥박 확인과 긴장 대처 각도. 원문의 건강상태 파악·출혈·CT/모니터링 사실만 사용, 보증·비교 표현 없음"
+    }
+   ]
   },
   {
    "id": "163",
